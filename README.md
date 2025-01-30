@@ -46,8 +46,6 @@ The following notebooks generates the forecast values all the different models i
 
   ├── requirements.txt               # List of dependencies for replication
 
-  ├── .venv/                         # Virtual environment (optional)
-
   ├── run.py                         # Script to automate execution (optional)
 
   └── README.md                      # Project documentation (this file)
