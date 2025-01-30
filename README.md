@@ -48,7 +48,7 @@ The following notebooks generates the forecast values all the different models i
 
   ├── .venv/                         # Virtual environment (optional)
 
-  ├── run.py                         # Script to automate execution (to be added)
+  ├── run.py                         # Script to automate execution (optional)
 
   └── README.md                      # Project documentation (this file)
 ```
@@ -86,6 +86,8 @@ A ```run.py``` script will be provided to streamline execution of multiple noteb
 ## Results
 
   The ```results/``` folder contains all final outputs (tables, charts, key figures).
+
+  The ```appendix results/``` folder contains all appendix outputs (tables, charts, key figures).
 
   The ```forecasts/``` folder contains generated forecasts for different models.
 
