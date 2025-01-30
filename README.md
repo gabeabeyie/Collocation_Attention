@@ -89,5 +89,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or collaboration, reach out via gappau@ymail.com or connect on [LinkedIn].
+For questions or collaboration, reach out via [Email](gappau@ymail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gabrielabeyie/).
 
