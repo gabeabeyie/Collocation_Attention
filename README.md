@@ -1,7 +1,7 @@
 ### BEYOND NEWS HEADLINES AND TFIDF: ENHANCING TEXT-BASED FORECASTING MODELS WITH VALIDATED COLLOCATIONS AND IMPROVED ATTENTION
 
 ### Overview
-This repository contains a forecasting project that utilizes various machine learning and econometric techniques to analyze economic data and generate forecasts. The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
+This repository contains the replication files for the project, Beyond news headlines and TFIDF: Enhancing text-based forecasting models with validated colocations and improved attention. The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
 
 ### Repository Structure
 
