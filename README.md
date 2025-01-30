@@ -1,3 +1,32 @@
 ### BEYOND NEWS HEADLINES AND TFIDF: ENHANCING TEXT-BASED FORECASTING MODELS WITH VALIDATED COLLOCATIONS AND IMPROVED ATTENTION
 
-This paper proposes a method for improving text-based forecasting models, with a specific focus on forecasting crude oil prices. Utilizing advanced techniques—namely, pattern validation and attention mechanism—the study demonstrates notable improvements in predictive power over traditional approaches. One key finding reveals that considering the full text of news articles—rather than limiting the analysis to just news headlines—leads to significant gains in forecasting accuracy. Furthermore, the model featuring verb-noun and adverb-adjective collocation pattern validation consistently outperforms benchmarks and models based solely on news headlines across various forecasting horizons. Additionally, I conducted a novel experiment to test the uniqueness of the text data, operating under the hypothesis that if the text data is uninformative and not unique to crude oil prices, it should not perform differently from any synthetically generated text. Using language model-generated synthetic news data on crude oil, I conducted a similar forecasting exercise. Despite the synthetic data undergoing the same forecasting procedure, it yielded poor results, thereby indicating the authentic text's ability to capture market dynamics.
+### Overview
+This repository contains a forecasting project that utilizes various machine learning and econometric techniques to analyze economic data and generate forecasts. The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
+
+### Repository Structure
+
+├── notebooks/                     # Jupyter notebooks for analysis
+│   ├── FredMD.ipynb               # Data preprocessing and handling
+│   ├── main_results.ipynb         # Main results generation
+│   ├── Sahm_Rule.ipynb            # Sahm Rule recession indicator implementation
+│   ├── Appendix.ipynb             # Appendix results
+│   ├── Appendix_alternative_updating_scheme.ipynb  # Alternative update approach
+│   ├── Benchmark_models.ipynb     # Benchmark forecasting models
+│   ├── Continuous.ipynb           # Continuous forecasting techniques
+├── data/                          # Contains all datasets used
+├── forecasts/                     # Contains forecasts generated from models
+├── results/                        # Output results (tables, figures)
+├── complete_words.json            # JSON file used in text-based forecasting
+├── requirements.txt               # List of dependencies for replication
+├── .venv/                         # Virtual environment (optional)
+├── run.py                         # Script to automate execution (to be added)
+└── README.md                      # Project documentation (this file)
+
+## Getting Started
+
+## Prerequisites
+Ensure you have Python installed. Clone this repository and install dependencies:
+
+git clone https://github.com/yourusername/forecasting-project.git
+cd forecasting-project
+pip install -r requirements.txt
