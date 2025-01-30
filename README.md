@@ -1,5 +1,5 @@
 ### BEYOND NEWS HEADLINES AND TFIDF: ENHANCING TEXT-BASED FORECASTING MODELS WITH VALIDATED COLLOCATIONS AND IMPROVED ATTENTION
-You can download the paper here: [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3185839)
+You can download the paper here: [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822767))
 
 ### Overview
 This repository contains the replication files for the project, "Beyond news headlines and TFIDF: Enhancing text-based forecasting models with validated colocations and improved attention". The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
