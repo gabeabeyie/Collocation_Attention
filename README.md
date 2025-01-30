@@ -1,7 +1,19 @@
 ### BEYOND NEWS HEADLINES AND TFIDF: ENHANCING TEXT-BASED FORECASTING MODELS WITH VALIDATED COLLOCATIONS AND IMPROVED ATTENTION
 
 ### Overview
-This repository contains the replication files for the project, Beyond news headlines and TFIDF: Enhancing text-based forecasting models with validated colocations and improved attention. The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
+This repository contains the replication files for the project, "Beyond news headlines and TFIDF: Enhancing text-based forecasting models with validated colocations and improved attention". The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
+
+To replicate the main results of the paper, run the python scripts in the notebooks:
+
+    main_results.ipynb
+    Appendix.ipynb
+The following notebooks generates the forecast values all the different models in the paper. Note that, they take longer to run. The results are in the ```forecasts/``` folder. Hence no need to run them.
+
+    Appendix_alternative_updating_scheme.ipynb
+    Benchmark_models.ipynb
+    Continuous.ipynb
+    FredMD.ipynb
+    Sahm_Rule.ipynb
 
 ### Repository Structure
 
