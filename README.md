@@ -2,13 +2,13 @@
 You can download the paper here: [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822767)
 
 ### Overview
-This repository contains the replication files for the project, "Beyond news headlines and TFIDF: Enhancing text-based forecasting models with validated colocations and improved attention". The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
+This repository contains the replication files for the project, **"Beyond news headlines and TFIDF: Enhancing text-based forecasting models with validated colocations and improved attention"**. The project includes Jupyter notebooks, datasets, and result files that demonstrate the forecasting methodology and findings.
 
 To replicate the main results of the paper, run the python scripts in the notebooks:
 
     main_results.ipynb
     Appendix.ipynb
-The following notebooks generates the forecast values all the different models in the paper. Note that, they take longer to run. The results are in the ```forecasts/``` folder. Hence no need to run them.
+The following Jupyter notebooks generate the forecast values for all the models discussed in the paper. **These notebooks require significant computational time to run**. However, the forecast results are already available in the ```forecasts/``` folder, so running them is not necessary.
 
     Appendix_alternative_updating_scheme.ipynb
     Benchmark_models.ipynb
