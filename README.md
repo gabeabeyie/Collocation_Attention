@@ -57,9 +57,9 @@ The following notebooks generates the forecast values all the different models i
 Ensure you have Python installed. Clone this repository and install dependencies:
 
 ```\
-git clone https://github.com/yourusername/forecasting-project.git
+git clone https://github.com/yourusername/Collocation_Attention.git
 
-cd forecasting-project
+cd Collocation_Attention
 
 pip install -r requirements.txt
 ```
